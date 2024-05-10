@@ -13,7 +13,7 @@ A step by step series of examples that tell you how to get a development environ
 1. Clone this repo
 
 ```
-git clone https://github.com/cb372/docker-sample.git
+git clone https://github.com/Ermahan-Nurgazy/test-oktrening
 ```
 
 2. Build the image
